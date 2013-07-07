@@ -1,0 +1,1 @@
+global.SelectedObj = argument0;
