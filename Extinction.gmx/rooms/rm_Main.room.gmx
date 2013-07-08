@@ -60,6 +60,8 @@ NpcId = 0;</code>
     <instance objName="obj_npc_1" x="288" y="256" name="inst_86E8C0CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_npc_1" x="352" y="256" name="inst_6C79A277" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Boat_Col" x="320" y="288" name="inst_0C51C1BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_npc_1" x="288" y="320" name="inst_9CA06A71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_npc_1" x="352" y="320" name="inst_4E637406" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
